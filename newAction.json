@@ -20,7 +20,7 @@
             "executeOnLoad": false,
             "pageId": "home",
             "actionConfiguration": {
-                "timeoutInMillisecond": "30000",
+                "timeoutInMillisecond": "60000",
                 "encodeParamsToggle": true,
                 "httpMethod": "POST",
                 "headers": [
@@ -61,7 +61,7 @@
             "confirmBeforeExecute": false
         },
         "createdAt": "2024-01-18T11:50:58.637Z",
-        "updatedAt": "2024-01-19T10:53:04.242Z",
+        "updatedAt": "2024-01-22T12:44:54.742Z",
         "deleted": false,
         "policies": [
             {
